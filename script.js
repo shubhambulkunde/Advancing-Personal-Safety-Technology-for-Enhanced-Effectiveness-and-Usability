@@ -12,7 +12,7 @@ import {
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyCykVRigfQRzBWaIlQwMBZrcSiGWRgsy9E",
+  apiKey: "-----",
 
   authDomain: "personalsafety3.firebaseapp.com",
 
