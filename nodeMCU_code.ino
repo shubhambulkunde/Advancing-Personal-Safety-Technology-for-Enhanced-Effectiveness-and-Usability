@@ -82,7 +82,7 @@ public:
 
 class FirebaseManager {
 private:
-  String APIKey = "AIzaSyCykVRigfQRzBWaIlQwMBZrcSiGWRgsy9E";
+  String APIKey = "-------";
   String RTDBUrl = "https://personalsafety3-default-rtdb.firebaseio.com/";
   String bucket = "S1";
 public:
