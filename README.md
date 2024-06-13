@@ -7,3 +7,5 @@ levels and heart rate, while continuously sending location to the Firebase throu
 GPS. The UI is equipped with functions to activate in emergencies via a button or
 indicator, utilizing features like fall detection (gyro meter) or weapon recognition
 recognition using camera.
+
+https://shubhambulkunde.github.io/Advancing-Personal-Safety-Technology-for-Enhanced-Effectiveness-and-Usability/
